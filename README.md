@@ -2,7 +2,7 @@
 
 **Paper submitted to IROS 2026 (under review)**
 
-## 🚀 CODE COMING SOON
+## CODE COMING SOON
 
 Full implementation will be released publicly upon acceptance.
 
@@ -18,7 +18,9 @@ GLidE-SLAM is a monocular hybrid Visual SLAM framework for embedded devices. The
 
 ## Video Teaser
 
-🎥 **[Watch on YouTube](https://youtu.be/RgCVw1D7rwg)**
+[![GLidE-SLAM Demo](https://img.youtube.com/vi/RgCVw1D7rwg/maxresdefault.jpg)](https://youtu.be/RgCVw1D7rwg)
+
+*Click to watch on YouTube*
 
 ## Target Platforms
 
