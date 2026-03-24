@@ -2,14 +2,9 @@
 
 **Paper submitted to IROS 2026 (under review)**
 
-## CODE COMING SOON
-
-Full implementation will be released publicly upon acceptance.
-
 ## Overview
 
 GLidE-SLAM is a monocular hybrid Visual SLAM framework for embedded devices. The system achieves **over 2× higher frame rates** compared to CPU-only baseline while maintaining trajectory accuracy by:
-
 
 - GPU-accelerated direct photometric tracking on intermediate frames
 - Vendor-agnostic OpenGL ES 3.1 compute shaders
@@ -27,6 +22,9 @@ https://github.com/user-attachments/assets/c5df0884-a663-40c2-8808-c5982aac1b08
 Better quality available: https://youtu.be/Ehjv07Av0AQ
 
 
+## CODE COMING SOON
+
+Full implementation will be released publicly upon acceptance.
 
 ## Target Platforms
 
