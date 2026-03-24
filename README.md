@@ -24,7 +24,6 @@ https://github.com/user-attachments/assets/55ab743a-a913-476a-bd46-329c49119370
 
 Better quality available: https://youtu.be/Ehjv07Av0AQ
 
-Preview quality:
 https://github.com/user-attachments/assets/c5df0884-a663-40c2-8808-c5982aac1b08
 
 
