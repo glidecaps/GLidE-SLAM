@@ -10,12 +10,13 @@ Full implementation will be released publicly upon acceptance.
 
 GLidE-SLAM is a monocular hybrid Visual SLAM framework for embedded devices. The system achieves **over 2× higher frame rates** compared to CPU-only baseline while maintaining trajectory accuracy by:
 
+**First complete direct photometric pose estimator via compute shaders for embedded devices (No Cuda).**
+
 - GPU-accelerated direct photometric tracking on intermediate frames
-- Vendor-agnostic OpenGL ES 3.1 compute shaders (no CUDA)
+- Vendor-agnostic OpenGL ES 3.1 compute shaders
 - Efficient CPU-GPU workload separation
 - Tracking offloaded to GPU-> preserves CPU resources for other SLAM modules like mapping and backend processes 
 
-**First complete direct photometric pose estimator via compute shaders for embedded devices.**
 
 https://github.com/user-attachments/assets/55ab743a-a913-476a-bd46-329c49119370
 
