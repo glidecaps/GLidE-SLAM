@@ -11,29 +11,29 @@ GLidE-SLAM is a monocular hybrid Visual SLAM framework for embedded devices. The
 - Efficient CPU-GPU workload separation
 - Tracking offloaded to GPU-> preserves CPU resources for other SLAM modules like mapping and backend processes 
 
-
 **First complete direct photometric pose estimator via compute shaders for embedded devices (No Cuda).**
+
+> **Note:** Results presented reflect parameters at the time of submission: We believe further tuning could yield even higher speedups beyond the reported 2×.
 
 https://github.com/user-attachments/assets/55ab743a-a913-476a-bd46-329c49119370
 
 
 https://github.com/user-attachments/assets/c5df0884-a663-40c2-8808-c5982aac1b08
 
-Better quality available: https://youtu.be/Ehjv07Av0AQ
+Better quality video available: https://youtu.be/Ehjv07Av0AQ
 
 
 ## CODE COMING SOON
 
 Full implementation will be released publicly upon acceptance.
 
-## Target Platforms
+## Target Platforms — Resource-Constrained Devices:
 
 - Autonomous robots and drones
 - Wearable AR/VR systems
 - Multi-robot systems
 - Commodity embedded hardware (tested on Radxa Zero 3W, AMD Radeon 890M)
-- Further tests on different hardware are also planned
-
+- Broader hardware validation across additional embedded platforms is ongoing
 ---
 
 **License**: TBD upon code release  
