@@ -20,7 +20,6 @@ GLidE-SLAM is a monocular hybrid Visual SLAM framework for embedded devices. The
 
 https://github.com/user-attachments/assets/55ab743a-a913-476a-bd46-329c49119370
 
-https://github.com/glidecaps/GLidE-SLAM/edit/main/Glide_Capture.mp4
 
 
 ## Target Platforms
